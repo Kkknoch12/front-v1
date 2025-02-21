@@ -1,0 +1,7 @@
+<script>start("/Users/a1234/rubens/rubenss/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,128,"128 B",1740141511,"21/02/25, 7:38:31 a.m.");</script>
+<script>addRow("App.css","App.css",0,606,"606 B",1740103448,"20/02/25, 9:04:08 p.m.");</script>
+<script>addRow("App.jsx","App.jsx",0,273,"273 B",1740113634,"20/02/25, 11:53:54 p.m.");</script>
+<script>addRow("index.css","index.css",0,58,"58 B",1740103700,"20/02/25, 9:08:20 p.m.");</script>
+<script>addRow("main.jsx","main.jsx",0,229,"229 B",1740103448,"20/02/25, 9:04:08 p.m.");</script>
